@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LookingForServiceApp", "LookingForServiceApp\LookingForServiceApp.vbproj", "{EE24C9BD-E1E4-48DE-9B78-9E4EDFB02914}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE24C9BD-E1E4-48DE-9B78-9E4EDFB02914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE24C9BD-E1E4-48DE-9B78-9E4EDFB02914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE24C9BD-E1E4-48DE-9B78-9E4EDFB02914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE24C9BD-E1E4-48DE-9B78-9E4EDFB02914}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {249CD9E8-AEE8-4E10-BF79-6CF1A1009345}
+	EndGlobalSection
+EndGlobal
