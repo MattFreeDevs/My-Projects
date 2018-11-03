@@ -24,3 +24,29 @@ C:\Users\Mloza\source\repos\LookingForServiceApp\LookingForServiceApp\bin\Debug\
 C:\Users\Mloza\source\repos\LookingForServiceApp\LookingForServiceApp\bin\Debug\LookingForServiceApp.application
 C:\Users\Mloza\source\repos\LookingForServiceApp\LookingForServiceApp\obj\Debug\LookingForServiceApp.exe.manifest
 C:\Users\Mloza\source\repos\LookingForServiceApp\LookingForServiceApp\obj\Debug\LookingForServiceApp.application
+C:\Users\Mloza\Mis Proyectos\LookingForServiceApp\LookingForServiceApp\bin\Debug\LookingForServiceApp.exe.config
+C:\Users\Mloza\Mis Proyectos\LookingForServiceApp\LookingForServiceApp\bin\Debug\LookingForServiceApp.exe.manifest
+C:\Users\Mloza\Mis Proyectos\LookingForServiceApp\LookingForServiceApp\bin\Debug\LookingForServiceApp.application
+C:\Users\Mloza\Mis Proyectos\LookingForServiceApp\LookingForServiceApp\bin\Debug\LookingForServiceApp.exe
+C:\Users\Mloza\Mis Proyectos\LookingForServiceApp\LookingForServiceApp\bin\Debug\LookingForServiceApp.pdb
+C:\Users\Mloza\Mis Proyectos\LookingForServiceApp\LookingForServiceApp\bin\Debug\LookingForServiceApp.xml
+C:\Users\Mloza\Mis Proyectos\LookingForServiceApp\LookingForServiceApp\obj\Debug\LookingForServiceApp.vbprojAssemblyReference.cache
+C:\Users\Mloza\Mis Proyectos\LookingForServiceApp\LookingForServiceApp\obj\Debug\LookingForServiceApp.ChangePassword.resources
+C:\Users\Mloza\Mis Proyectos\LookingForServiceApp\LookingForServiceApp\obj\Debug\LookingForServiceApp.Companies.resources
+C:\Users\Mloza\Mis Proyectos\LookingForServiceApp\LookingForServiceApp\obj\Debug\LookingForServiceApp.CreateAccount.resources
+C:\Users\Mloza\Mis Proyectos\LookingForServiceApp\LookingForServiceApp\obj\Debug\LookingForServiceApp.CreateCompany.resources
+C:\Users\Mloza\Mis Proyectos\LookingForServiceApp\LookingForServiceApp\obj\Debug\LookingForServiceApp.EditCompany.resources
+C:\Users\Mloza\Mis Proyectos\LookingForServiceApp\LookingForServiceApp\obj\Debug\LookingForServiceApp.EditProfile.resources
+C:\Users\Mloza\Mis Proyectos\LookingForServiceApp\LookingForServiceApp\obj\Debug\LookingForServiceApp.LoginForm.resources
+C:\Users\Mloza\Mis Proyectos\LookingForServiceApp\LookingForServiceApp\obj\Debug\LookingForServiceApp.MainMenu.resources
+C:\Users\Mloza\Mis Proyectos\LookingForServiceApp\LookingForServiceApp\obj\Debug\LookingForServiceApp.Resources.resources
+C:\Users\Mloza\Mis Proyectos\LookingForServiceApp\LookingForServiceApp\obj\Debug\LookingForServiceApp.ContactMe.resources
+C:\Users\Mloza\Mis Proyectos\LookingForServiceApp\LookingForServiceApp\obj\Debug\LookingForServiceApp.YourCompany.resources
+C:\Users\Mloza\Mis Proyectos\LookingForServiceApp\LookingForServiceApp\obj\Debug\LookingForServiceApp.YourProfile.resources
+C:\Users\Mloza\Mis Proyectos\LookingForServiceApp\LookingForServiceApp\obj\Debug\LookingForServiceApp.vbproj.GenerateResource.cache
+C:\Users\Mloza\Mis Proyectos\LookingForServiceApp\LookingForServiceApp\obj\Debug\LookingForServiceApp.vbproj.CoreCompileInputs.cache
+C:\Users\Mloza\Mis Proyectos\LookingForServiceApp\LookingForServiceApp\obj\Debug\LookingForServiceApp.exe.manifest
+C:\Users\Mloza\Mis Proyectos\LookingForServiceApp\LookingForServiceApp\obj\Debug\LookingForServiceApp.application
+C:\Users\Mloza\Mis Proyectos\LookingForServiceApp\LookingForServiceApp\obj\Debug\LookingForServiceApp.exe
+C:\Users\Mloza\Mis Proyectos\LookingForServiceApp\LookingForServiceApp\obj\Debug\LookingForServiceApp.xml
+C:\Users\Mloza\Mis Proyectos\LookingForServiceApp\LookingForServiceApp\obj\Debug\LookingForServiceApp.pdb
